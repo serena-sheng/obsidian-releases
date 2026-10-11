@@ -61136,5 +61136,12 @@
     "author": "azv133",
     "description": "Write chord progressions bar by bar and play them back, with transposition, metronome, tap tempo, a piano chord finder and drag and drop. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "azv133/obsidian-chord-bars"
+  },
+  {
+    "id": "html-preview",
+    "name": "HTML Preview",
+    "author": "Serena Sheng",
+    "description": "Preview local HTML files inside Obsidian, styles and scripts included.",
+    "repo": "serena-sheng/obsidian-html-preview"
   }
 ]
